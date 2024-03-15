@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fromthered.zempie",
+      "sha256_cert_fingerprints": [
+        "61:38:F6:15:D0:42:6E:3A:D0:5F:94:E0:FC:3E:69:AD:28:F0:B7:C2:BD:94:6E:3D:EC:48:02:09:6E:F9:46:52"
+      ]
+    }
+  }
+]
